@@ -1,6 +1,6 @@
 ---
   layout: default.md
-  title: "About Us"
+    title: "About Us"
 ---
 
 # About Us
@@ -31,14 +31,13 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
+### Julian Lim
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/jj910.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/jj910)] [[portfolio](team/jj910.md)]
 
 * Role: Developer
-* Responsibilities: Data
 
 ### Jean Doe
 
