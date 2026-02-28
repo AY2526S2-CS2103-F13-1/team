@@ -4,7 +4,7 @@
   pageNav: 3
 ---
 
-# AB-3 Developer Guide
+# BlockBook Developer Guide
 
 <!-- * Table of Contents -->
 <page-nav-print />
@@ -14,7 +14,7 @@
 ## **Acknowledgements**
 
 _{ list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well }_
-
+The UI mockup was Generated with ChatGPT using the following [input](https://chatgpt.com/share/69a2747d-cb94-800c-bb01-49b78ced58b4)
 --------------------------------------------------------------------------------------------------------------------
 
 ## **Setting up, getting started**
