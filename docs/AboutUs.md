@@ -38,6 +38,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/jj910)] [[portfolio](team/jj910.md)]
 
 * Role: Developer
+* Project Responsibilities: Deliverables and deadlines
+* Development Responsibilities: Integration
 
 ### Jean Doe
 
