@@ -11,7 +11,7 @@
         "teh-huan-xi-kester": "Teh Huan Xi Kester",
         "julian-lim": "Julian Lim",
         "hwang-jihun": "Hwang Jihun",
-        "james-doe": "James Doe"
+        "xie-yingwen": "Xie YingWen"
       },
       "headingKeywords": {}
     },
@@ -162,6 +162,13 @@
     {
       "src": "team/tehdrink.md",
       "title": "Kester's Project Portfolio Page",
+      "headings": {
+        "project-blockbook": "Project: BlockBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yingwen178.md",
       "headings": {
         "project-blockbook": "Project: BlockBook"
       },
