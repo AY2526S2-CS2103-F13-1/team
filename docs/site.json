@@ -1,7 +1,7 @@
 {
   "baseUrl": "",
   "titlePrefix": "BlockBook",
-  "titleSuffix": "AddressBook Level-3",
+  "titleSuffix": "The contacts app for Minecrafters",
   "faviconPath": "images/SeEduLogo.png",
   "style": {
     "codeTheme": "light"
